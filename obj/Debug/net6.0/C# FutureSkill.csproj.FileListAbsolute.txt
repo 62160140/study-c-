@@ -1,0 +1,15 @@
+C:\Users\WIN10\Desktop\C# FutureSkill\bin\Debug\net6.0\C# FutureSkill.exe
+C:\Users\WIN10\Desktop\C# FutureSkill\bin\Debug\net6.0\C# FutureSkill.deps.json
+C:\Users\WIN10\Desktop\C# FutureSkill\bin\Debug\net6.0\C# FutureSkill.runtimeconfig.json
+C:\Users\WIN10\Desktop\C# FutureSkill\bin\Debug\net6.0\C# FutureSkill.dll
+C:\Users\WIN10\Desktop\C# FutureSkill\bin\Debug\net6.0\C# FutureSkill.pdb
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\C# FutureSkill.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\C# FutureSkill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\C# FutureSkill.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\C# FutureSkill.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\C# FutureSkill.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\C# FutureSkill.dll
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\refint\C# FutureSkill.dll
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\C# FutureSkill.pdb
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\C# FutureSkill.genruntimeconfig.cache
+C:\Users\WIN10\Desktop\C# FutureSkill\obj\Debug\net6.0\ref\C# FutureSkill.dll
